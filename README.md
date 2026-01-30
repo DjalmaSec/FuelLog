@@ -3,12 +3,12 @@
 
 
 Interface básica com Tkinter que permite cadastrar:
-Data do abastecimento
-Placa do veículo
-Quantidade abastecida
-Quilometragem atual do veículo
-Litros restantes
-Situação do pedido
+-  Data do abastecimento
+-  Placa do veículo
+-  Quantidade abastecida
+-  Quilometragem atual do veículo
+-  Litros restantes
+-  Situação do pedido
 
 Para usar é necessário instalar as bibliotecas:
 -  pip install pandas openpyxl
@@ -17,8 +17,8 @@ Execute o script:
 python cadastro_combustivel.py
 
 Após o primeiro execute, vai gerar os arquivos:
-cadastro_combustivel.py  (Código principal)
-abastecimentos.xlsx   (Planilha gerada automaticamente)
-
-
+-  cadastro_combustivel.py  (Código principal)
+-  abastecimentos.xlsx   (Planilha gerada automaticamente)
+.
+.
 <img width="357" height="296" alt="image" src="https://github.com/user-attachments/assets/7ce51439-ca62-4105-a924-bb5340292dc0" />
