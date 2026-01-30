@@ -19,3 +19,6 @@ python cadastro_combustivel.py
 Após o primeiro execute, vai gerar os arquivos:
 cadastro_combustivel.py  (Código principal)
 abastecimentos.xlsx   (Planilha gerada automaticamente)
+
+
+<img width="357" height="296" alt="image" src="https://github.com/user-attachments/assets/7ce51439-ca62-4105-a924-bb5340292dc0" />
